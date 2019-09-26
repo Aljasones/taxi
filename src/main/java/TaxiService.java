@@ -1,4 +1,4 @@
-public class Calculation {
+public class TaxiService {
 
     int count (int distanceInKm){
         int boardingCostInRubles = 60;
